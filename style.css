@@ -1,0 +1,55 @@
+
+/* mudando cor de fundo e das letras*/
+body{
+  background-color: black;
+  color:white;
+}
+/*  ajustando imangen no centro */
+.bobo{
+  
+    display: flex;
+    justify-content: center;
+  
+}
+/*  ajustando titulo no centro */
+.boloi{
+    display: flex;
+    justify-content: center;
+}
+/*  ajustando imangen no centro */
+.bb{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid white ;
+}
+/* classe formatando div*/
+.bn{
+    width: 200px;
+    height: 200px;
+    border: 3px solid green;
+    float: right;
+    background-color: white;
+    background-image: url(assets/images.jpg);
+
+}
+.bo{
+    width: 200px;
+    height: 200px;
+    border: 3px solid magenta;
+    float: right;
+    background-color: red;
+    background-image: url(assets/paisagem-de-nevoeiro-matinal-e-montanhas-com-baloes-de-ar-quente-ao-nascer-do-sol_335224-794.avif);
+}
+.bl{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    float: right;
+    background-color: yellow;
+    background-image: url(assets/Paisagem-1.jpg) ;
+}
+
+
+
